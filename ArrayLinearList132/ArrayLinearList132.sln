@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLinearList132", "ArrayLinearList132\ArrayLinearList132.csproj", "{1592EFD0-1A20-4D83-B862-2199D8C66F32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1592EFD0-1A20-4D83-B862-2199D8C66F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1592EFD0-1A20-4D83-B862-2199D8C66F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1592EFD0-1A20-4D83-B862-2199D8C66F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1592EFD0-1A20-4D83-B862-2199D8C66F32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
